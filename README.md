@@ -9,4 +9,4 @@
 6. There are 4 models designed in this project, which are "Standard Prophet" / "Prophet", "Standard Prophet with Additional Regressors" / "Prophet + Reg", "Standard Prophet Optimized with PSO" / "Prophet + PSO", and "Standard Prophet with Additional Regressors and Optimized with PSO" / "Prophet + Reg + PSO"
 
 ## **Result :**
-The "Prophet + Reg + PSO" model achieved a high level of accuracy with MAPE and R2 values of 0.00000008522 and 0.999, respectively. This means the "Prophet + Reg + PSO" model is very accurate in forecasting the Adjusted Closing Prices of Xiaomi Corporation.
+The "Prophet + Reg + PSO" model achieved a high level of accuracy with MAPE and R2 values of **0.00000008522** and **0.999**, respectively. This means the "Prophet + Reg + PSO" model is very accurate in forecasting the Adjusted Closing Prices of Xiaomi Corporation.
